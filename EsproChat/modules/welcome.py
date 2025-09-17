@@ -70,7 +70,7 @@ async def greet_group(_, member: ChatMemberUpdated):
         try:
             bot_info = await EsproChat.get_me()
             bot_username = bot_info.username
-            url = f"https://t.me/Jani_Music_Robot?startgroup=true"
+            url = f"https://t.me/ShiriMusicbot?startgroup=true"
 
             welcomeimg = welcomepic(
                 pic, user.first_name, member.chat.title, user.id, user.username
