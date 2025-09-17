@@ -75,7 +75,7 @@ async def shayri(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/AvengersNetwork"
+                        "✨sᴜᴘᴘᴏꝛᴛ✨", url=f"https://t.me/AvengersNetwork"
                     ),
                     InlineKeyboardButton(
                         "✨ᴀᴠєɴɢєʀs ✨", url=f"http://t.me/iTzAvengers"
