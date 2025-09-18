@@ -12,7 +12,7 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ 📨 Sᴜᴘᴘᴏʀᴛ ➪ [ᴡᴏʀʟᴅ ᴄʜᴀᴛ ](https://t.me/best_friends_world_chat)   
+║ ➻ 📨 Sᴜᴘᴘᴏʀᴛ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/best_friends_world_chat)   
 ║ ➻ ᴅᴇᴠᴇʟᴏᴘᴇʀ ➪ [ᴀᴠєɴɢєʀs](http://t.me/iTzAvengers)                        
 ╚═════════════════╝
 **"""
